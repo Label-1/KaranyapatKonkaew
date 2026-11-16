@@ -32,6 +32,5 @@ Dashboard แสดงข้อมูลจริงและผลการค�
 กราฟเปรียบเทียบปริมาณการใช้น้ำมัน
 ![image alt](https://github.com/Label-1/KaranyapatKonkaew/blob/main/fuel.png?raw=true)
 
-ตารางแสดงข้อมูลการใช้น้ำมัน
-![image alt](https://github.com/Label-1/KaranyapatKonkaew/blob/main/fueltable.png?raw=true)
+
 
