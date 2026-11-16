@@ -20,17 +20,18 @@ Data Analyst with 1+ years of experience and a degree in Computational Science. 
 
 ### Example my work in Data Analyst and Data scientist
 
-Dashboard สำหรับแสดงรายได้จากการดำเนินงานต่อพนักงาน โดยเปรียบเทียบข้อมูลตามรายภาค รายเขต และรายสาขา รวมถึงมุมมองรายไตรมาสและรายเดือน
+##Dashboard สำหรับแสดงรายได้จากการดำเนินงานต่อพนักงาน โดยเปรียบเทียบข้อมูลตามรายภาค รายเขต และรายสาขา รวมถึงมุมมองรายไตรมาสและรายเดือน
 ![image alt](https://github.com/Label-1/KaranyapatKonkaew/blob/main/project-revenue.png?raw=true)
 
-Dashboard เปรียบเทียบปริมาณการใช้ไฟฟ้า น้ำ และเชื้อเพลิง เพื่อช่วยติดตามรูปแบบการใช้ทรัพยากรในแต่ละช่วงเวลา
+##Dashboard เปรียบเทียบปริมาณการใช้ไฟฟ้า น้ำ และเชื้อเพลิง เพื่อช่วยติดตามรูปแบบการใช้ทรัพยากรในแต่ละช่วงเวลา
 ![image alt](https://github.com/Label-1/KaranyapatKonkaew/blob/main/project-resource.png?raw=true)
 
-Dashboard แสดงข้อมูลจริงและผลการคาดการณ์จำนวนผู้ใช้น้ำ พร้อมเปรียบเทียบแนวโน้มในช่วงเวลาต่าง ๆ
+##Dashboard แสดงข้อมูลจริงและผลการคาดการณ์จำนวนผู้ใช้น้ำ พร้อมเปรียบเทียบแนวโน้มในช่วงเวลาต่าง ๆ
 ![image alt](https://github.com/Label-1/KaranyapatKonkaew/blob/main/project-forecast.png?raw=true)
 
-กราฟเปรียบเทียบปริมาณการใช้น้ำมัน
+##กราฟเปรียบเทียบปริมาณการใช้น้ำมัน
 ![image alt](https://github.com/Label-1/KaranyapatKonkaew/blob/main/fuel.png?raw=true)
 
-
+##Report สรุปข้อเรียนการบริการ
+![image alt]((https://github.com/Label-1/KaranyapatKonkaew/blob/main/complain.png?raw=true)
 
